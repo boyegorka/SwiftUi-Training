@@ -16,7 +16,7 @@ struct ContentView: View {
                 Text("Егор Свистушкин").font(.title)
                 Text("IOS developer").font(.title2)
                 Divider()
-                Card(image: "phone.fill", message: "+74637185492")
+                Card(image: "phone.fill", message: "+7**********")
                 Card(image: "envelope.fill", message: "boyegorka@gmail.com")
 
             }.foregroundColor(.white)
